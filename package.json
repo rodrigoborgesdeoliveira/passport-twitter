@@ -39,10 +39,10 @@
     "passport-oauth1": "1.x.x"
   },
   "devDependencies": {
-    "chai": "2.x.x",
-    "chai-passport-strategy": "1.x.x",
+    "chai": "^4.3.6",
+    "chai-passport-strategy": "^3.0.0",
     "make-node": "0.4.6",
-    "mocha": "2.x.x"
+    "mocha": "^10.0.0"
   },
   "engines": {
     "node": ">= 0.4.0"
