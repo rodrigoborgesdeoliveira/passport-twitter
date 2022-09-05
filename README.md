@@ -1,3 +1,5 @@
+**Forked version of [passport-twitter](https://github.com/jaredhanson/passport-twitter) until this [PR](https://github.com/jaredhanson/node-xtraverse/pull/2) gets merged and the `node-xtraverse` is updated in `passport-twitter`.**
+
 # passport-twitter
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Twitter](http://twitter.com/)
