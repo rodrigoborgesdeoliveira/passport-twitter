@@ -1,5 +1,5 @@
 {
-  "name": "passport-twitter",
+  "name": "@rodrigoborgesdeoliveira/passport-twitter",
   "version": "1.0.4",
   "description": "Twitter authentication strategy for Passport.",
   "keywords": [
@@ -35,14 +35,14 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth1": "1.x.x",
-    "xtraverse": "0.1.x"
+    "@rodrigoborgesdeoliveira/xtraverse": "^1.0.0",
+    "passport-oauth1": "1.x.x"
   },
   "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-passport-strategy": "^3.0.0",
     "make-node": "0.4.6",
-    "mocha": "2.x.x",
-    "chai": "2.x.x",
-    "chai-passport-strategy": "1.x.x"
+    "mocha": "^10.0.0"
   },
   "engines": {
     "node": ">= 0.4.0"
